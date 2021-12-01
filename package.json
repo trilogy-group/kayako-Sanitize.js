@@ -1,0 +1,24 @@
+{
+  "name": "kayako-sanitize",
+  "version": "2.0.0",
+  "description": "Fork of Sanitize.js",
+  "main": "lib/sanitize.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trilogy-group/kayako-Sanitize.js.git"
+  },
+  "author": "Gustav Weslien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trilogy-group/kayako-Sanitize.js/issues"
+  },
+  "homepage": "https://github.com/trilogy-group/kayako-Sanitize.js#readme"
+}
